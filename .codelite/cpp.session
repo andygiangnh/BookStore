@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Users/hganguyen/mySource/cpp/cpp.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="/Users/hganguyen/mySource/cpp/cpp.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="214" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/BookCopy.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="90" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/Borrower.cpp" Name="FileName"/>
+      <int Value="4" Name="FirstVisibleLine"/>
+      <int Value="74" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/Book.cpp" Name="FileName"/>
+      <int Value="82" Name="FirstVisibleLine"/>
+      <int Value="88" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/Loan.cpp" Name="FileName"/>
+      <int Value="85" Name="FirstVisibleLine"/>
+      <int Value="100" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/Loan.h" Name="FileName"/>
+      <int Value="24" Name="FirstVisibleLine"/>
+      <int Value="13" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/DataHolder.cpp" Name="FileName"/>
+      <int Value="12" Name="FirstVisibleLine"/>
+      <int Value="247" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/DataHolder.h" Name="FileName"/>
+      <int Value="167" Name="FirstVisibleLine"/>
+      <int Value="199" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/LibraryManager.cpp" Name="FileName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="13" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/hganguyen/mySource/cpp/LibraryManager.h" Name="FileName"/>
+      <int Value="13" Name="FirstVisibleLine"/>
+      <int Value="13" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

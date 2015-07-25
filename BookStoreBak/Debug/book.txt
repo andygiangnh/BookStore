@@ -1,0 +1,3 @@
+american crime stories:1:2:marie brown:philip large:a1b1c1:americam:1989:550:30:0:0
+a book on c:6:1:nguyen giang:a1b1c2:rmit vn:2005:900:30:1:3
+obj oriented programming:4:1:robert lafore:a2b2c2:SAMS:2004:1000:70:0:3
